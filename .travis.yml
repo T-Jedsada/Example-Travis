@@ -36,4 +36,4 @@ deploy:
     repo: T-Jedsada/Example-Travis
     jdk: oraclejdk8
   api_key:
-    secure: f0bc8ce63669f9ef9a5eb937820f9696db11cc9c
+    secure: d20a8cefa3124cdebcb290b7a6e97dcc96d612fb
